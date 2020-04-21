@@ -1,0 +1,1 @@
+pip3 install --user tensorflow-addons==0.6.0 (for TF 2.0)
